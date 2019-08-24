@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TravelMantix</string>
+    <string name="deal_title_hint">Deal title</string>
+    <string name="price_numbers_only_hint">Price (numbers Only)</string>
+    <string name="description_hint">Description</string>
+    <string name="action_save">Save</string>
+    <string name="action_new_deal">New Deal</string>
+    <string name="action_delete_deal">Delete deal</string>
+    <string name="action_log_out">Log Out</string>
+    <string name="button_upload_image">Upload Image</string>
+</resources>
